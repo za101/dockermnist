@@ -1,4 +1,4 @@
-# Basic MNIST Example
+# MNIST Docker
 
 ```bash
 pip install -r requirements.txt
